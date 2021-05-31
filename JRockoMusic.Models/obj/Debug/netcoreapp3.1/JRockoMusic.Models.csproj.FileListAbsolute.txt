@@ -1,0 +1,9 @@
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\bin\Debug\netcoreapp3.1\JRockoMusic.Models.deps.json
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\bin\Debug\netcoreapp3.1\JRockoMusic.Models.dll
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\bin\Debug\netcoreapp3.1\JRockoMusic.Models.pdb
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.AssemblyInfo.cs
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.dll
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.pdb
+C:\Users\pablo\source\repos\JRockoMusic\JRockoMusic.Models\obj\Debug\netcoreapp3.1\JRockoMusic.Models.csproj.AssemblyReference.cache
