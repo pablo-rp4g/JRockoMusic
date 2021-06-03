@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRockoMusic.Models", "JRockoMusic.Models\JRockoMusic.Models.csproj", "{B04C9226-8E39-471F-A819-29C48383A10C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JRockoMusic.Models", "JRockoMusic.Models\JRockoMusic.Models.csproj", "{B04C9226-8E39-471F-A819-29C48383A10C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRockoMusic.Data", "JRockoMusic.Data\JRockoMusic.Data.csproj", "{152E0BB9-6B4A-42C5-AF34-627698CE824D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JRockoMusic.Data", "JRockoMusic.Data\JRockoMusic.Data.csproj", "{152E0BB9-6B4A-42C5-AF34-627698CE824D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRockoMusic.WebApi2", "JRockoMusic.WebApi2\JRockoMusic.WebApi2.csproj", "{4A113794-86E4-4111-A511-44D96C14BD58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JRockoMusic.WebApi2", "JRockoMusic.WebApi2\JRockoMusic.WebApi2.csproj", "{4A113794-86E4-4111-A511-44D96C14BD58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

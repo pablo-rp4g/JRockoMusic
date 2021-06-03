@@ -38,37 +38,12 @@ namespace JRockoMusic.Data
         {
             modelBuilder.HasAnnotation("Relational:Collation", "Modern_Spanish_CI_AS");
 
-
             //reemplazado por
             modelBuilder.ApplyConfiguration(new DetalleOrdenConfiguracion());
-            //modelBuilder.Entity<DetalleOrden>(entity =>
-            //{
-
-            //});
-
             modelBuilder.ApplyConfiguration(new OrdenConfiguracion());
-            //modelBuilder.Entity<Orden>(entity =>
-            //{
-
-            //});
-
             modelBuilder.ApplyConfiguration(new PerfilConfiguracion());
-            //modelBuilder.Entity<Perfil>(entity =>
-            //{
-
-            //});
-
             modelBuilder.ApplyConfiguration(new ProductoConfiguracion());
-            //modelBuilder.Entity<Producto>(entity =>
-            //{
-
-            //});
-
             modelBuilder.ApplyConfiguration(new UsuarioConfiguracion());
-            //modelBuilder.Entity<Usuario>(entity =>
-            //{
-
-            //});
 
             OnModelCreatingPartial(modelBuilder);
         }
