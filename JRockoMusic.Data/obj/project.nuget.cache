@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U83SvccewSwA7pLwPi/kfWylO9TbuskWaXOKZ5rq6wRf9wjhjd5D52dgKq0s78Jl/TIh48lQNWh4DDiGYcTf4g==",
+  "dgSpecHash": "/BeM/N9x9GLpkX+XsTHS00kgPqZ1HWXYXnLTimBUoFkdMrTa8pxK0rnBBe1DdCkgCSxV/0DHA7CcHABcGEYs8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
+  "projectFilePath": "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pablo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

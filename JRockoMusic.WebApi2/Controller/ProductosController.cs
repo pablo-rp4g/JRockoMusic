@@ -42,6 +42,11 @@ namespace JRockoMusic.WebApi2.Controller
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }// DELETE api/<ProductosController>/5
+        [HttpDelete("{id}")]
+        public void Deleteprueba(int id)
+        {
+
         }
     }
 }

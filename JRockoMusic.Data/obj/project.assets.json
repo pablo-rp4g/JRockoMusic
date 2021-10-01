@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
       "projectName": "JRockoMusic.Data",
-      "projectPath": "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
+      "projectPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Data\\JRockoMusic.Data.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Data\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5844,8 +5844,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Models\\JRockoMusic.Models.csproj": {
-              "projectPath": "C:\\Users\\pablo\\source\\repos\\JRockoMusic\\JRockoMusic.Models\\JRockoMusic.Models.csproj"
+            "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Models\\JRockoMusic.Models.csproj": {
+              "projectPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\ProyectoGIT\\JRockoMusic\\JRockoMusic.Models\\JRockoMusic.Models.csproj"
             }
           }
         }
